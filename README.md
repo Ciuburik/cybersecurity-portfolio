@@ -89,4 +89,4 @@ Website: https://bucuriedigital.com
 
 GitHub: https://github.com/Ciuburik
 
-Fiverr: https://www.fiverr.com/ciuburik
+Fiverr: https://www.fiverr.com/ciupy007
