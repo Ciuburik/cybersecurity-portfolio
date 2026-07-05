@@ -83,7 +83,7 @@ The reusable penetration testing lab report template is available here:
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/YOURPROFILE
+LinkedIn: http://linkedin.com/in/ionut-eugen-bucur-b4bbb4194
 
 Website: https://bucuriedigital.com
 
